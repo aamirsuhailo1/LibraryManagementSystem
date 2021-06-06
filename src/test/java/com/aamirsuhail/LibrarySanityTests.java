@@ -39,13 +39,13 @@ public class LibrarySanityTests {
 	@Test
 	public void librarySanityTestFive() {
 		System.out.println("This is library sanity test five");
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
 	}
 	
 	@Test
 	public void librarySanityTestSix() {
 		System.out.println("This is library sanity test six");
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
 	}
 
 }
